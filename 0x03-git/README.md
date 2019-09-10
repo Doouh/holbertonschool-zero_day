@@ -1,1 +1,1 @@
-This project is about Git, GitHub and README files
+Made by Kevin
