@@ -1,1 +1,1 @@
-## Made by: Kevin Giraldo
+# holbertonschool-zero_day
